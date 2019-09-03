@@ -74,7 +74,7 @@
 		}
 		#todo-list li .remove:hover,
 		#todo-list li:hover .remove:hover {
-			background-color:#F00;
+			background-color:gold;
 			color:#FFF;
 		}
 /* *
