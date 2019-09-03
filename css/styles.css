@@ -69,7 +69,7 @@
 		cursor: pointer;
 	}
 		#todo-list li:hover .remove {
-			color:#F00;
+			color:aqua;
 			border-color:#F00;
 		}
 		#todo-list li .remove:hover,
