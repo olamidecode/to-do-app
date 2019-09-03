@@ -40,8 +40,8 @@
                             <input type="text" class="form-control" name="todo_input" placeholder="Item Todo " aria-label="Todo Item" aria-describedby="button-addon2">
                             <input type="date" class="form-control" name="todo_date" aria-label="Todo Date" aria-describedby="button-addon2">
                                 <div class="input-group-append">
-                                    <button class="btn btn-primary" name="submit" type="submit" id="button-addon2">
-                                        Add Todo
+                                    <button class="btn btn-primary" name="submit" type="submit" id="button-addon2" autocomplete="off" required>
+                                        Add To do
                                     </button>
                                 </div>
                         </div>
