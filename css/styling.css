@@ -2,7 +2,7 @@
  * Body Structure
  */
  body {
-	background-image: url('../images/landscape.jpg');
+	/* background-image: url('../images/landscape.jpg'); */
 	font-family: 'Oswald', sans-serif;
 
 
@@ -108,3 +108,10 @@
 		text-align: center;
 		color: white;
 	}
+	.img{
+		width: 100% !important;
+		background-attachment: fixed;
+		background-position: center !important;
+		background-repeat: no-repeat;
+		background-size: cover !important;
+	  }
