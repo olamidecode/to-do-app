@@ -70,7 +70,7 @@
 	}
 		#todo-list li:hover .remove {
 			color:aqua;
-			border-color:#F00;
+			border-color:black;
 		}
 		#todo-list li .remove:hover,
 		#todo-list li:hover .remove:hover {
