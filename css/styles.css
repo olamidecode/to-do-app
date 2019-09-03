@@ -98,3 +98,7 @@
 		text-transform: uppercase;
 		cursor: pointer;
 	}
+	/* styling the header */
+	#header{
+	 text-align: center;
+	}

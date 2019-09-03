@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 </head>
 <body>
-    <section class="header">
+    <section id="header">
     <h1>To Do App Saver</h1>
     </section>
     <!-- Start Bootstrap Columns And Following Naming Convention To Align The Items In The Centre Of The Page -->
